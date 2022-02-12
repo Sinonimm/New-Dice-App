@@ -1,2 +1,2 @@
 # New-Dice-App
-App with changing Dice cubes
+App with changing Dices
